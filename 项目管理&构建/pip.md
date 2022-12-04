@@ -1,5 +1,0 @@
-### pip
-
-### pipenv
-
-### conda
