@@ -1,10 +1,9 @@
 ## **个人信息**
 ---
-* Java(Python)
+* **Java**(Python)
 * 软件工程
 * Github: https://github.com/WenDaoZhenLie
 
 ## **联系方式**
 ---
-* QQ: 1250315766
 * 邮箱: zhenliewendao@gmail.com
