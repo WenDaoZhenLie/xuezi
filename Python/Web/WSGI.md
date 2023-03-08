@@ -89,7 +89,15 @@ def make_server(server_address, application):
 
 
 if __name__ = '__main__':
-
+    if len(sys.argv) < 2:
+        sys.exit('python wsgiserver.py module:application')
+    app_path = sys.argv[1]
+    module, application = app_path.split(':')
+    module = __import__(module)
+    application = getattr(module, application)
+    httpd = make_server(SERVER_ADDRESS, application)
+    print('WSGIServer: Serving HTTP on port {port} ...\n'.format(port=PORT))
+    httpd.serve_forever()
 ```
 
 ## **application**
