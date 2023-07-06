@@ -103,15 +103,24 @@
 
 ### **代码**
 ````
- ```java
- class Class{
+```java
+public class HelloWorld { 
+	public static void main(String[] args) { 
+		System.out.print("Hello world!");
+	}
+}
 
- }
- ```
+`print("Hello world!")`
+```
 ````
-> class Class{
->     
-> }
+```java
+public class HelloWorld { 
+	public static void main(String[] args) { 
+		System.out.print("Hello world!");
+	}
+}
+```
+`print("Hello world!")`
 
 ### **分隔线**
 ```
@@ -121,9 +130,9 @@
 
 ### **链接**
 ```
-[Markdown官方教程](https://markdown.com.cn/)
+[Markdown教程](https://markdown.com.cn/)
 ```
-> [Markdown官方教程](https://markdown.com.cn/)
+> [`Markdown教程`](https://markdown.com.cn/)
 
 ### **图片**
 ```
