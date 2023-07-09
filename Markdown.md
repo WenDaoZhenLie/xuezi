@@ -109,9 +109,8 @@ public class HelloWorld {
 		System.out.print("Hello world!");
 	}
 }
-
-`print("Hello world!")`
 ```
+`print("Hello world!")`
 ````
 ```java
 public class HelloWorld { 
