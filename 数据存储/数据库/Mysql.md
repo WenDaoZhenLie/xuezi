@@ -1,3 +1,22 @@
+## 存储引擎
+* InnoDB
+* MyISAM
+
+## 索引
+
+
+## 锁
+* 全局锁
+* 表级锁
+* 行级锁
+
+## 事务
+### 事务隔离
+* Read uncommitted 
+* Read committed 
+* Repeatable read 
+* Serializable 
+
 ## **序列**
 ```sql
 create table if not exists sequence

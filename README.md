@@ -18,5 +18,5 @@
 - [ ] 设计模式
 
 ## 项目
-- [ ] [GunYu](https://github.com/WenDaoZhenLie/gunyu.git)
-- [ ] BuaGua
+- [ ] [Gunyu](https://github.com/WenDaoZhenLie/gunyu.git)
+- [ ] Bagua
