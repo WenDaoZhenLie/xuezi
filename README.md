@@ -4,7 +4,7 @@
 
 ## 📬 **联系方式**
 - **邮箱**: [zhenliewendao@gmail.com](mailto:zhenliewendao@gmail.com)
-- **GitHub**: [github.com/zhangsan](https://github.com/zhangsan)
+- **GitHub**: [github.com/WenDaoZhenLie/xuezi/tree/wendaozhenlie](https://github.com/WenDaoZhenLie/xuezi/tree/wendaozhenlie)
 
 ---  
 
